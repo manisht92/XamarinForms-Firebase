@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0B377D59-8B23-405D-9721-446931471BE5}|Default">
+  <MonoDevelop.Ide.ItemProperties.firebasedemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.080F0135-E5B8-4117-8F52-51C461798AA4" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="firebasedemo.Android/MainActivity.cs">
+    <Files>
+      <File FileName="firebasedemo.Android/MainActivity.cs" Line="19" Column="10" />
+      <File FileName="firebasedemo.iOS/AppDelegate.cs" Line="36" Column="10" />
+      <File FileName="firebasedemo/MyPage.xaml.cs" Line="19" Column="1" />
+      <File FileName="firebasedemo/MyPage.xaml" Line="10" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firebasedemo" expanded="True">
+            <Node name="firebasedemo" expanded="True">
+              <Node name="MyPage.xaml" expanded="True" />
+            </Node>
+            <Node name="firebasedemo.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="firebasedemo.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.firebasedemo.Android PreferredExecutionTarget="Android.192.168.57.101:5555" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
